@@ -9,7 +9,7 @@ body {
 }
 .header {
  width:100%;
- background-color:rgb(:red);
+ background-color:Blue(:red);
  height:10vh;
  color:black;
  text-align:center;
@@ -20,7 +20,7 @@ body {
   width:10%;
   background-color:#f59842;
   height:50px;
-  color:black;
+  color:red;
   padding-top:5px;
   position:absolute;
   right:80px;
@@ -58,7 +58,7 @@ left:-200px;
 }
 .textpage1 {
   width:30%;
-  background-color:red;
+  background-color:blue;
   height:82%;
   margin-left:auto;
   margin-right:auto;
@@ -70,7 +70,7 @@ left:-200px;
   width:30%;
   height:82%;
   float:left;
-  background-color:red;
+  background-color:black;
   text-align:center;
   padding:10px;
   font-size:20px;
